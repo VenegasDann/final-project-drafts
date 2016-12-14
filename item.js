@@ -1,13 +1,13 @@
-class Item{
+class Item {
   //Fill in the item class below this comment.
-constructor (n,p,s){
-this.name=n
-this.price=p
-this.shipping=s
-
+  constructor(n,p,s){
+    this.name=n;
+    this.price=p;
+    this.shipping=s;
+  }
 }
 
 //Create your three test items below this comment.
-new Item dl("doll",15,3);
-new Item tc("toy car",8,2);
-new Item bbs("building blocks",10,3);
+this.shirt=new Item("shirt",20,7);
+this.phone=new Item("iPhone",500,5);
+this.tickets=new Item("concert",50,6);
