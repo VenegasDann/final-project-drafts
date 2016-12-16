@@ -8,6 +8,6 @@ class Item {
 }
 
 //Create your three test items below this comment.
-this.shirt=new Item("shirt",20,7);
-this.phone=new Item("iPhone",500,5);
-this.tickets=new Item("concert",50,6);
+ let food = new Item("pom's chicken",20,7);
+ let pc = new Item("Gaming PC",500,5);
+ let drink = new Item("Mountain Dew",50,6);
